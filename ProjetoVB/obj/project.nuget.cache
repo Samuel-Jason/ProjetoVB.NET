@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zg1Fwx2B9SyaLvc6IEWkIdG/jgItJaQo9/rLoRzvKP7JhVzYZ3WAfG3gajkE7VNPLlK5ORXBtk+jPxVYHoCPTg==",
+  "dgSpecHash": "gp+axZ4rlE/XDgicMw1P8lH3nu0hXeA9LcgcA4BGnyWJRsav8JlnY6ygO9hJSucwbUN2HwAXqZJKMRLj0I2iow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jason\\Desktop\\PROJETOS PARA GITHUB\\ProjetoVB\\ProjetoVB\\ProjetoVB.vbproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Jason\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
