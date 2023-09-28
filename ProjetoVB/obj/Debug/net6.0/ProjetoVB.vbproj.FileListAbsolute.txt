@@ -1,0 +1,15 @@
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\ProjetoVB.vbproj.AssemblyReference.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\ProjetoVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\ProjetoVB.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\ProjetoVB.AssemblyInfo.vb
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\ProjetoVB.vbproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\bin\Debug\net6.0\ProjetoVB.exe
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\bin\Debug\net6.0\ProjetoVB.deps.json
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\bin\Debug\net6.0\ProjetoVB.runtimeconfig.json
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\bin\Debug\net6.0\ProjetoVB.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\bin\Debug\net6.0\ProjetoVB.pdb
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\ProjetoVB.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\refint\ProjetoVB.dll
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\ProjetoVB.pdb
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\ProjetoVB.genruntimeconfig.cache
+C:\Users\Jason\Desktop\PROJETOS PARA GITHUB\ProjetoVB\ProjetoVB\obj\Debug\net6.0\ref\ProjetoVB.dll
